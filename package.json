@@ -1,5 +1,5 @@
 {
-  "name": "@bgeron/holidates-CLI",
+  "name": "@bgeron/holidates",
   "version": "1.0.0",
   "description": "Project to learn using npm",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BaptisteGeron/npm-project.git"
+    "url": "git+https://github.com/BaptisteGeron/npm-project-CLI.git"
   },
   "author": "",
   "license": "ISC",
