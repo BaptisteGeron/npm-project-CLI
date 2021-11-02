@@ -1,0 +1,26 @@
+{
+  "name": "@bgeron/holidates-CLI",
+  "version": "1.0.0",
+  "description": "Project to learn using npm",
+  "main": "index.js",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaptisteGeron/npm-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaptisteGeron/npm-project/issues"
+  },
+  "homepage": "https://github.com/BaptisteGeron/npm-project#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "country-list": "^2.2.0"
+  }
+}
